@@ -2,15 +2,15 @@
 This project is for building an interactive Data Visualization dashboard showing the development of nuclear technology, the number of warheads and the number of countries with nuclear capabilities.
 
 ## Technologies to be used:
-**Databse**
+* **Databse**
 * SQLite
-**Data Visualization Libraries**
+* **Data Visualization Libraries**
 * D3.js | Plotly
-**Geomapping tools**
+* **Geomapping tools**
 * Leaflet.js | mapbox-gl.js
-**Web Scraping Tools**
+* **Web Scraping Tools**
 * Beautiful Soup | Splinter | Requests
-**Web Development**
+* **Web Development**
 * Python Flask powered RESTful API | HTML | CSS | Bootstrap | JavaScript
 
 
