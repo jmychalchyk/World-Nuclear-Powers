@@ -37,5 +37,5 @@ This project is for building an interactive Data Visualization dashboard, showin
 ![Alt text](images/dashboard-example.PNG?raw=true "Optional Title")
 
 ## Dashboard inspiration:
-[Interactive Visualization Dashboard](https://thebulletin.org/nuclear-notebook-multimedia/)
+[Interactive Visualization Dashboard](https://thebulletin.org/nuclear-notebook-multimedia/) <br>
 [Interactive Visualization Dashboard](https://www.ploughshares.org/world-nuclear-stockpile-report)
