@@ -1,5 +1,5 @@
 # Project Proposal
-This project is for building an interactive Data Visualization dashboard showing the development of global nuclear arsenals between 1945 to 2014, the number of nuclear bases of countries with nuclear capabilities and the status of world nuclear forces in 2018.
+This project is for building an interactive Data Visualization dashboard, showing the development of global nuclear arsenals between 1945 to 2014, the number of nuclear bases of countries with nuclear capabilities and the status of world nuclear forces in 2018.
 
 ## Technologies to be used:
 * **Databse**
