@@ -32,4 +32,4 @@ This project is for building an interactive Data Visualization dashboard showing
 ![Alt text](images/dashboard-example.PNG?raw=true "Optional Title")
 
 ## Dashboard inspiration:
-[Interactive Visualization Dashboard](https://www.cnbc.com/2018/07/23/us-and-russia-control-most-of-the-worlds-nuclear-weapons.html)
+[Interactive Visualization Dashboard](https://thebulletin.org/nuclear-notebook-multimedia/)
