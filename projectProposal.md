@@ -3,10 +3,10 @@ This project is for building an interactive Data Visualization dashboard showing
 
 ## Datasets/sources that will be used for the project:
 * [CNBC webpage](https://www.cnbc.com/2018/07/23/us-and-russia-control-most-of-the-worlds-nuclear-weapons.html)
-* SQLite database – warheads_inventories table
 ![Alt text](images/metadata_stockpile.PNG?raw=true "Optional Title")
+* SQLite database â€“ warheads_inventories table
 <br>
-* A csv file listing nuclear base locations of the world’s nuclear-armed countries (will be imported to SQLite database and converted to geoJSON object after adding geographic coordinates of each location)
+* A csv file listing nuclear base locations of the worldâ€™s nuclear-armed countries (will be imported to SQLite database and converted to geoJSON object after adding geographic coordinates of each location)
 <br>
 ![Alt text](images/metadata_nuclear_base.PNG?raw=true "Optional Title")
 
