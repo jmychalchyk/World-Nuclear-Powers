@@ -1,6 +1,19 @@
 # Project Proposal
 This project is for building an interactive Data Visualization dashboard showing the development of nuclear technology, the number of warheads and the number of countries with nuclear capabilities.
 
+## Technologies to be used:
+** Databse **
+SQLite
+** Data Visualization Libraries **
+D3.js | Plotly
+** Geomapping tools **
+Leaflet.js | mapbox-gl.js
+** Web Scraping Tools **
+Beautiful Soup | Splinter | Requests
+** Web Development **
+Python Flask powered RESTful API | HTML | CSS | Bootstrap | JavaScript
+
+
 ## Datasets/sources that will be used for the project:
 * [CNBC webpage](https://www.cnbc.com/2018/07/23/us-and-russia-control-most-of-the-worlds-nuclear-weapons.html)
 * SQLite database – warheads_inventories table
