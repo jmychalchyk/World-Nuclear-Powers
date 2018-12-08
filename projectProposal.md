@@ -3,15 +3,15 @@ This project is for building an interactive Data Visualization dashboard showing
 
 ## Technologies to be used:
 * **Databse**
-* SQLite
+  * SQLite
 * **Data Visualization Libraries**
-* D3.js | Plotly
+  * D3.js | Plotly
 * **Geomapping tools**
-* Leaflet.js | mapbox-gl.js
+  * Leaflet.js | mapbox-gl.js
 * **Web Scraping Tools**
-* Beautiful Soup | Splinter | Requests
+  * Beautiful Soup | Splinter | Requests
 * **Web Development**
-* Python Flask powered RESTful API | HTML | CSS | Bootstrap | JavaScript
+  * Python Flask powered RESTful API | HTML | CSS | Bootstrap | JavaScript
 
 
 ## Datasets/sources that will be used for the project:
